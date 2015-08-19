@@ -1,0 +1,6 @@
+{
+  "db": {
+    "uri": null,
+    "reconnect": true
+  }
+}

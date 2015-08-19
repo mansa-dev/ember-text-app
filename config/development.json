@@ -1,0 +1,6 @@
+{
+  "db": {
+    "uri": "mysql://root:root@localhost/test",
+    "reconnect": true
+  }
+}
